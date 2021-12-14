@@ -1,0 +1,50 @@
+Aluna: Raíla Rocha de Menezes
+
+Pesquisa Tema CSS, Tema React
+
+
+CSS:
+
+O que é Bootstrap?
+
+Bootstrap é uma ferramenta para trabalhar com desenvolvimento Web. Nele existem vários componentes prontos, como botões, formulários, carrossel, imagens, entre outros, para que possam ser utilizados para criar sistemas e sites. 
+Utilizar o Bootstrap facilita muito, já que ele nos disponibiliza bastante ferramentas reutilizáveis.
+
+https://youtu.be/ThMkb9-L1bc
+
+
+O que é FlexBox?
+
+O FlexBox é utilizado para alinhar e distribuir itens dentro de um container. Ele ajuda no alinhamento, espaçamento, organização e até na hora de deixar o site responsivo.
+O FlexBox é dividido em duas partes: Flex container e Flax itens.
+O Flax container é a caixa que vai envolver todos os itens e o Flax itens são os itens internos.
+Cada um tem variadas propriedades que define o espaçamento, a ordem e o alinhamento de cada um.
+
+https://youtu.be/WBMN-PcwqG8
+
+
+O que é Grid CSS?
+
+O Grid é utilizado para dividir a tela do usuário em partes iguais com espaçamento entre elas. É utilizado na responsividade do site para que possa se adequar a todo tipo de dispositivo.
+As estruturas são feitos através do css na área chamada de container.
+
+https://www.alura.com.br/artigos/como-fazer-grids-e-a-responsividade-na-web?gclid=Cj0KCQiAnuGNBhCPARIsACbnLzqgq_4Z3T8fWCkYzD0BkGNemAFKjlDyWRLPMXVDZFOnnwdCTBMAJPMaAgbrEALw_wcB
+
+
+
+
+React:
+
+O que é React?
+
+O React é uma biblioteca do JS, é uma aplicação de página única para o usuário, não faz requisição para o servidor a todo momento, acessa tudo através da mesma página.
+Essa aplicação tem o objetivo de fazer com que o usuário tenha a senção que nunca sai da página.
+No react você cria o código HTML dentro do JS, utilizando JSX (denominação para quando se usa código HTML dentro do JS puro).
+
+https://youtu.be/XspIMaVhs0g
+
+
+
+Quais as vantagens de usá-lo para desenvolvimento de Single Page Application?
+
+É vantajoso para o carregamento da página, carregamento de dados, para trasnformar a experiêcia do usuário de forma muito mais prazerosa.
